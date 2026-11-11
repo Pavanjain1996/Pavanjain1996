@@ -11,6 +11,9 @@
   <a href="mailto:013pavanjain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/pavanjain1996"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.leetcode.com/013pavanjain"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanjain1996&style=for-the-badge&color=2F81F7&label=Profile+Views" />
 </p>
 
@@ -144,8 +147,8 @@ class PavanJain:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavanjain1996&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanjain1996&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanjain1996&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavanjain1996&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavanjain1996&hide_border=true&theme=tokyonight" />
